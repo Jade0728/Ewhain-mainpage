@@ -41,8 +41,8 @@ const Login = () => {
         <div className='login'>
             <div className='login1'>
                 <div className='login-inputs'>
-                    <input type="text" placeholder="아이디" ></input>
-                    <input type="text" placeholder="비밀번호" ></input>
+                    <input type="text" className="log-in" placeholder="아이디" ></input>
+                    <input type="text "className="log-in" placeholder="비밀번호" ></input>
                 </div>
                 <div className='remem-or-save'>
                     <input type="checkbox" /> 아이디 기억
@@ -68,7 +68,8 @@ const Login = () => {
 const Banner = () => {
     return (
         <div className='banner-image'>
-            <img className='25new' src="ewhain-mainpage/src/main-page/ewhain-25.png" ></img>
+            <img className='25new' src="ewhain-mainpage/src/main-page/ewhain-25.png" />
+
         </div>
             
     )
