@@ -68,8 +68,8 @@ const Login = () => {
 const Banner = () => {
     return (
         <div className='banner-image'>
-            <img className='25new' src="ewhain-mainpage/src/main-page/ewhain-25.png" />
-
+            <img className='imgs' src="ewhain-mainpage\src\main-page\ewhain-25.png" />
+            <img className='imgs' src="ewhain-mainpage\src\main-page\ewhain-community.png" />
         </div>
             
     )
