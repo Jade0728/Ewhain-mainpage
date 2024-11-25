@@ -1,3 +1,8 @@
+<h3>
+  이화이언 7-8주차 과제
+  이화이언웹의 메인페이지를 react를 이용해 구현
+</h3>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
